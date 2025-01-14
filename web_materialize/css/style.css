@@ -1,0 +1,39 @@
+.slider h3{
+	color: blueviolet;
+
+}
+
+.container h3, h5{
+	color: white;
+}
+
+.home h3,
+.home h5{
+	color: white;
+}
+
+.home p{
+	color: white;
+}
+
+.navbar-fixed a{
+	color: white;
+}
+
+.parallax-container {
+	height: 500px;
+}
+
+.parallax-container img{
+	max-width: 200px;
+
+}
+
+
+section {
+	padding: 20px 0;
+}
+
+.slider h3{
+	color: white;
+}
